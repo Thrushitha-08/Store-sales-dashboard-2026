@@ -1,4 +1,5 @@
 \#Store Sales Dashboard
+<img width="1920" height="1080" alt="dashboard" src="https://github.com/user-attachments/assets/636389e0-6c40-4817-920c-d1dabddeb552" />
 
 
 
